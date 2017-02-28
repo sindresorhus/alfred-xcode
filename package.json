@@ -1,0 +1,38 @@
+{
+  "name": "alfred-xcode",
+  "version": "0.0.0",
+  "description": "Alfred 3 workflow to open Xcode projects and workspaces",
+  "license": "MIT",
+  "repository": "sindresorhus/alfred-xcode",
+  "author": {
+    "name": "Sindre Sorhus",
+    "email": "sindresorhus@gmail.com",
+    "url": "sindresorhus.com"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy",
+    "xcode",
+    "project",
+    "projects",
+    "workspace",
+    "workspaces",
+    "xcodeproj",
+    "xcworkspace"
+  ],
+  "dependencies": {
+    "alfy": "^0.6.0"
+  }
+}
