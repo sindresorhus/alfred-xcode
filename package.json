@@ -1,7 +1,7 @@
 {
   "name": "alfred-xcode",
   "version": "1.0.0",
-  "description": "Alfred 3 workflow to open Xcode projects and workspaces",
+  "description": "Alfred 3 workflow to open Xcode projects, workspaces, and playgrounds",
   "license": "MIT",
   "repository": "sindresorhus/alfred-xcode",
   "author": {
@@ -30,7 +30,9 @@
     "workspace",
     "workspaces",
     "xcodeproj",
-    "xcworkspace"
+    "xcworkspace",
+    "playground",
+    "playgrounds"
   ],
   "dependencies": {
     "alfy": "^0.6.0"

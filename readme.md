@@ -1,6 +1,6 @@
 # alfred-xcode <img src="icon.png" width="40">
 
-> [Alfred 3](https://www.alfredapp.com) workflow to open Xcode projects and workspaces
+> [Alfred 3](https://www.alfredapp.com) workflow to open Xcode projects, workspaces, and playgrounds
 
 <img src="screenshot.png" width="694">
 

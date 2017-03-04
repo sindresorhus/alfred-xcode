@@ -84,6 +84,7 @@
 				<key>types</key>
 				<array>
 					<string>com.apple.dt.document.workspace</string>
+					<string>com.apple.dt.playground</string>
 					<string>com.apple.xcode.project</string>
 				</array>
 				<key>withspace</key>
