@@ -2,7 +2,7 @@
 
 > [Alfred 3](https://www.alfredapp.com) workflow to open Xcode projects, workspaces, and playgrounds
 
-<img src="screenshot.png" width="694">
+<img src="screenshot.png" width="694" height="200">
 
 
 ## Install

@@ -1,40 +1,40 @@
 {
-  "name": "alfred-xcode",
-  "version": "1.1.0",
-  "description": "Alfred 3 workflow to open Xcode projects, workspaces, and playgrounds",
-  "license": "MIT",
-  "repository": "sindresorhus/alfred-xcode",
-  "author": {
-    "name": "Sindre Sorhus",
-    "email": "sindresorhus@gmail.com",
-    "url": "sindresorhus.com"
-  },
-  "engines": {
-    "node": ">=4"
-  },
-  "scripts": {
-    "postinstall": "alfy-init",
-    "preuninstall": "alfy-cleanup"
-  },
-  "files": [
-    "icon.png",
-    "info.plist"
-  ],
-  "keywords": [
-    "alfred",
-    "workflow",
-    "alfy",
-    "xcode",
-    "project",
-    "projects",
-    "workspace",
-    "workspaces",
-    "xcodeproj",
-    "xcworkspace",
-    "playground",
-    "playgrounds"
-  ],
-  "dependencies": {
-    "alfy": "^0.6.0"
-  }
+	"name": "alfred-xcode",
+	"version": "1.1.0",
+	"description": "Alfred 3 workflow to open Xcode projects, workspaces, and playgrounds",
+	"license": "MIT",
+	"repository": "sindresorhus/alfred-xcode",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"postinstall": "alfy-init",
+		"preuninstall": "alfy-cleanup"
+	},
+	"files": [
+		"icon.png",
+		"info.plist"
+	],
+	"keywords": [
+		"alfred",
+		"workflow",
+		"alfy",
+		"xcode",
+		"project",
+		"projects",
+		"workspace",
+		"workspaces",
+		"xcodeproj",
+		"xcworkspace",
+		"playground",
+		"playgrounds"
+	],
+	"dependencies": {
+		"alfy": "^0.8.0"
+	}
 }
