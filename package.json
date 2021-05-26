@@ -1,13 +1,13 @@
 {
 	"name": "alfred-xcode",
 	"version": "2.0.0",
-	"description": "Alfred 3 workflow to open Xcode projects, workspaces, and playgrounds",
+	"description": "Alfred workflow to open Xcode projects, workspaces, and playgrounds",
 	"license": "MIT",
 	"repository": "sindresorhus/alfred-xcode",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
-		"url": "sindresorhus.com"
+		"url": "https://sindresorhus.com"
 	},
 	"engines": {
 		"node": ">=8"

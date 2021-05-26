@@ -50,6 +50,8 @@
 			<dict>
 				<key>anchorfields</key>
 				<true/>
+				<key>argumenttrimmode</key>
+				<integer>0</integer>
 				<key>argumenttype</key>
 				<integer>0</integer>
 				<key>daterange</key>
@@ -76,7 +78,10 @@
 				<key>runningsubtext</key>
 				<string></string>
 				<key>scopes</key>
-				<array/>
+				<array>
+					<string>~/dev/oss</string>
+					<string>~/dev/private</string>
+				</array>
 				<key>subtext</key>
 				<string></string>
 				<key>title</key>
